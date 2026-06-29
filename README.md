@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyQt5](https://img.shields.io/badge/PyQt5-GUI-green)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Analytics-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 # 🚑 AI-Enabled Ambulance Dispatch & Emergency Response Management System
 
 An enterprise-grade, mission-critical desktop control room simulator built using **Python 3**, **PyQt5**, **SQLite**, and **Matplotlib**. This project models a real-world emergency management ecosystem, showcasing structured object-oriented programming (OOP), asynchronous interface tracking, and automated algorithmic unit routing.
